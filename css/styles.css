@@ -1,0 +1,14 @@
+.white{
+    color: white;
+    font-weight: Bold;
+} 
+.error{
+    color: red;
+    font-weight:bold;
+}
+#map {
+    height: 100%;
+}
+
+
+
